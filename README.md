@@ -6,3 +6,14 @@
 
 ![App Screenshot](wsl.png)
 
+Proximo passo agora é abrir terminal no windows, efetuar a troca para Ubuntu.
+
+Efetue clonagem de um repositorio na pasta de preferencia e execute o comando:
+
+``code nome_do_repostorio``
+
+Caso seu VSCode apareça a mensagem no canto inferior igual imagem abaixo mostra, apenas clique em "Reopen Folder in WSL"
+
+![App Screenshot](Vscode1.png)
+
+
